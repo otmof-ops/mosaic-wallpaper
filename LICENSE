@@ -1,0 +1,195 @@
+OFFTRACKMEDIA STUDIOS — SOURCE-AVAILABLE SOFTWARE LICENSE
+mosaic-wallpaper
+
+--------------------------------------------------------------------------------
+| Field           | Value                                                      |
+|-----------------|------------------------------------------------------------|
+| Document ID     | OTM-IT-LIC-001/26                                          |
+| Authority       | OFFTRACKMEDIA Studios (ABN 84 290 819 896)                 |
+| Version         | 1.0.0                                                      |
+| Status          | Active                                                      |
+| Effective Date  | 2026-08-10                                                  |
+| Governing Law   | Western Australia, Commonwealth of Australia               |
+--------------------------------------------------------------------------------
+
+PLAIN-LANGUAGE SUMMARY (for convenience only — not a substitute for the terms below)
+
+  You MAY: use, run, and modify this software for personal, internal-business,
+  educational, and other non-commercial purposes, on any number of your own machines.
+
+  You MAY NOT: sell, resell, sublicense, rent, lease, lend, or charge for this
+  software or any modified version; redistribute or republish it to third parties;
+  offer it (or a derivative, or a hosted/managed version) as a product or service;
+  or use it to build a competing commercial product — without OFFTRACKMEDIA
+  Studios' prior written consent.
+
+  OFFTRACKMEDIA Studios keeps all rights in the software. Third-party dependencies
+  (e.g. Python, Pillow, PyGObject) are NOT covered by this license and keep their
+  own separate licenses — see Section 5.
+
+This is a SOURCE-AVAILABLE license. It is NOT open source: the source is provided
+for use and study, not for redistribution or resale.
+
+================================================================================
+
+1. DEFINITIONS
+
+1.1 "OTM" means OFFTRACKMEDIA Studios, ABN 84 290 819 896, and its successors and
+    assigns.
+
+1.2 "Software" means the mosaic-wallpaper software in this repository — its source
+    code, scripts, configuration templates, documentation, and associated assets
+    authored by OTM — in original or modified form, EXCEPT Third-Party Components
+    (Section 5).
+
+1.3 "You" or "Licensee" means the individual or entity exercising rights under
+    this License.
+
+1.4 "Authorized Purpose" means using, running, and modifying the Software for
+    personal, internal-business, educational, evaluation, and other non-commercial
+    purposes. The Authorized Purpose does NOT include reselling, sublicensing,
+    public redistribution, hosting for third parties, or any commercial
+    exploitation of the Software.
+
+1.5 "Derivative Work" means any work that modifies, adapts, translates, builds
+    upon, or is based on the Software in whole or in part.
+
+1.6 "Intellectual Property Rights" means all copyrights, patents, trademarks,
+    trade secrets, database rights, moral rights, and all other intellectual and
+    proprietary rights worldwide, whether registered or unregistered.
+
+1.7 "Third-Party Components" means any software, library, runtime, or content not
+    authored by OTM that the Software depends on, references, or interoperates
+    with, each of which is subject to its own separate license.
+
+2. GRANT OF LICENSE
+
+2.1 Subject to Your compliance with this License, OTM grants You a limited,
+    non-exclusive, non-transferable, non-sublicensable, revocable, royalty-free
+    license to access, use, run, reproduce for Your own use, and modify the
+    Software solely for the Authorized Purpose.
+
+2.2 This is a source-available license. The Software is made available for use and
+    study, and is NOT licensed as open source or open content. No rights are
+    granted except those expressly stated here.
+
+2.3 This License does not transfer any ownership. All rights not expressly granted
+    are reserved by OTM. This License terminates automatically and immediately on
+    any breach, without notice.
+
+3. RESTRICTIONS
+
+3.1 You shall not, and shall not permit any third party to:
+
+    (a) sell, resell, sublicense, rent, lease, lend, or charge any fee for the
+        Software or any Derivative Work, or otherwise transfer or make the
+        Software available to any third party;
+
+    (b) publish, distribute, mirror, or republish the Software or any Derivative
+        Work to any third party, whether or not for a fee;
+
+    (c) offer, host, or operate the Software, any Derivative Work, or any hosted,
+        managed, or "as-a-service" version of it, for or on behalf of any third
+        party;
+
+    (d) use the Software, in whole or in part, to develop, market, or provide any
+        product, service, or offering that competes with the Software or with any
+        OTM product or service;
+
+    (e) remove, alter, or obscure any copyright, license, attribution, or other
+        proprietary notice in or on the Software; or
+
+    (f) use any OTM name, logo, or trademark except as required to reproduce the
+        notices already present in the Software.
+
+3.2 Any of the acts restricted in Section 3.1 requires OTM's prior express written
+    consent, which OTM may grant, condition, or withhold at its discretion.
+
+4. INTELLECTUAL PROPERTY OWNERSHIP
+
+4.1 OTM retains all right, title, and interest in and to the Software, including
+    all Intellectual Property Rights. Nothing in this License transfers any
+    ownership of the Software to You.
+
+4.2 You may create Derivative Works only for the Authorized Purpose. You may not
+    distribute, publish, sell, or otherwise make available any Derivative Work
+    except as expressly permitted by this License or with OTM's prior written
+    consent. As between You and OTM, OTM retains all Intellectual Property Rights
+    in the original Software incorporated in any Derivative Work.
+
+5. THIRD-PARTY COMPONENTS
+
+5.1 The Software depends on and interoperates with Third-Party Components
+    (including, without limitation, the Python runtime, the Pillow imaging
+    library, PyGObject/GObject-Introspection, systemd, and desktop wallpaper
+    utilities such as feh and xwallpaper). Third-Party Components are owned by
+    their respective rights holders and are licensed to You under their own
+    separate terms, NOT under this License.
+
+5.2 Nothing in this License grants, purports to grant, or restricts any rights in
+    Third-Party Components. Where the terms of a Third-Party Component conflict
+    with this License, the terms of that Third-Party Component govern with respect
+    to that component. You are responsible for complying with them.
+
+6. DISCLAIMER OF WARRANTIES
+
+6.1 THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+    KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT
+    LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+    PURPOSE, TITLE, AND NON-INFRINGEMENT. YOU ASSUME ALL RISK ARISING FROM YOUR
+    USE OF THE SOFTWARE.
+
+6.2 Nothing in this License excludes or limits any guarantee, right, or remedy
+    that cannot lawfully be excluded or limited, including under the Australian
+    Consumer Law (Schedule 2 of the Competition and Consumer Act 2010 (Cth)).
+
+7. LIMITATION OF LIABILITY
+
+7.1 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL OTM BE
+    LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE, OR
+    EXEMPLARY DAMAGES, OR FOR ANY LOSS OF PROFITS, REVENUE, DATA, OR USE, ARISING
+    OUT OF OR IN CONNECTION WITH THIS LICENSE OR THE SOFTWARE, REGARDLESS OF THE
+    THEORY OF LIABILITY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+7.2 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, OTM'S TOTAL AGGREGATE
+    LIABILITY ARISING OUT OF OR IN CONNECTION WITH THIS LICENSE OR THE SOFTWARE
+    SHALL NOT EXCEED ONE HUNDRED AUSTRALIAN DOLLARS (AUD $100.00).
+
+8. TERM AND TERMINATION
+
+8.1 This License is effective until terminated. It terminates automatically and
+    without notice if You breach any term. OTM may also terminate it at any time
+    on notice.
+
+8.2 On termination, all rights granted to You cease and You must stop using and
+    destroy all copies of the Software in Your possession or control. Sections 1,
+    3, 4, 5, 6, 7, 8, and 9 survive termination.
+
+9. GENERAL
+
+9.1 This License is governed by the laws of the State of Western Australia and the
+    Commonwealth of Australia, and the courts of Western Australia have exclusive
+    jurisdiction, without regard to conflict-of-laws principles.
+
+9.2 If any provision is held unenforceable, it shall be modified to the minimum
+    extent necessary to be enforceable, or severed, and the remaining provisions
+    continue in full force.
+
+9.3 OTM's failure to enforce any provision is not a waiver. Any waiver or
+    amendment must be in writing and signed by an authorized representative of OTM.
+
+9.4 You may not assign this License without OTM's prior written consent. OTM may
+    assign it freely.
+
+9.5 This License is the entire agreement between You and OTM regarding the
+    Software and supersedes any prior license (including any prior application of
+    the MIT License to the Software).
+
+================================================================================
+OFFTRACKMEDIA Studios · ABN 84 290 819 896 · "Building Empires, Not Just Brands."
+
+OTM-IT-LIC-001/26 · Version 1.0.0 · Effective 2026-08-10
+(c) 2025-2026 OFFTRACKMEDIA Studios. All rights reserved, except as expressly
+granted in this License. Third-Party Components remain under their own licenses
+(Section 5).
+================================================================================

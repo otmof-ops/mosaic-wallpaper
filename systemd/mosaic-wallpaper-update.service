@@ -1,0 +1,9 @@
+[Unit]
+Description=Check for and install mosaic-wallpaper updates
+
+[Service]
+Type=oneshot
+Environment=XDG_RUNTIME_DIR=%t
+Environment=DBUS_SESSION_BUS_ADDRESS=unix:path=%t/bus
+# Fast-forward-only; no-op when already current; skips itself if the checkout is dirty.
+ExecStart=%h/.local/bin/mosaic-wallpaper-update.sh --auto

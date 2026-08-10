@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Runtime artifacts (these live under XDG dirs at runtime, never in the repo)
+config.ini
+layout.json
+*.jpg
+canvas-*.jpg
+index.json
+state.json
+
+# Editors / OS
+*.swp
+*~
+.DS_Store
+.idea/
+.vscode/

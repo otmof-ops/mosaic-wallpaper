@@ -1,0 +1,12 @@
+[Unit]
+Description=Rotate the mosaic wallpaper on a schedule
+
+[Timer]
+# First run 2 min after login, then every 30 min. Edit to taste (e.g. OnUnitActiveSec=15min).
+OnActiveSec=2min
+OnUnitActiveSec=30min
+Persistent=true
+Unit=mosaic-wallpaper@all.service
+
+[Install]
+WantedBy=timers.target

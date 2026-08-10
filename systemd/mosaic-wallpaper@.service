@@ -1,0 +1,8 @@
+[Unit]
+Description=Compose the mosaic wallpaper (target %i — "all" or a monitor index)
+
+[Service]
+Type=oneshot
+Environment=XDG_RUNTIME_DIR=%t
+Environment=DBUS_SESSION_BUS_ADDRESS=unix:path=%t/bus
+ExecStart=%h/.local/bin/mosaic-wallpaper.py %i
